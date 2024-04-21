@@ -2,6 +2,7 @@ import json
 import boto3
 import datetime
 from boto3.dynamodb.conditions import Key
+import random
 
 dynamodb = boto3.resource("dynamodb")
 merchant_table = dynamodb.Table('Merchant')
@@ -108,7 +109,22 @@ def bank(transaction_id, merchant_name, bank_for_merch, bank_for_CC, AccountNum_
             status = 200
             message.append('Insufficient funds')
 
+def bank_fail():
+    probability = random.random()
+
+# Checking if the random float is within the 10% probability range
+    if probability <= 0.1:
+        return 1
+    else:
+        return 0 
+
+
+
 def lambda_handler(event, context):
+    bankFailQuestion = bank_fail
+    if bankFailQuestion == 1:
+        echo_back("bank failure")
+
     print(event)
     if 'body' in event and event['body'] is not None:
         body = json.loads(event['body'])
