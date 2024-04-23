@@ -1,0 +1,119 @@
+Response for item 1: bank failure
+Response for item 2: Success
+Response for item 3: Success
+Response for item 4: Success
+Response for item 5: Success
+Response for item 6: Success
+Response for item 7: Success
+Response for item 8: Success
+Response for item 9: Success
+Response for item 10: Success
+Response for item 11: bank failure
+Response for item 12: Success
+Response for item 13: Success
+Response for item 14: bank failure
+Response for item 15: Success
+Response for item 16: Success
+Response for item 17: Success
+Response for item 18: bank failure
+Response for item 19: bank failure
+Response for item 20: Success
+Response for item 21: Success
+Response for item 22: bank failure
+Response for item 23: Success
+Response for item 24: Success
+Response for item 25: Success
+Response for item 26: Success
+Response for item 27: Success
+Response for item 28: Success
+Response for item 29: Success
+Response for item 30: Success
+Response for item 31: Success
+Response for item 1: Success
+Response for item 2: Success
+Response for item 3: Success
+Response for item 4: Success
+Response for item 5: Success
+Response for item 6: Success
+Response for item 7: Success
+Response for item 1: bank failure
+Response for item 2: Success
+Response for item 3: Success
+Response for item 4: Success
+Response for item 5: Success
+Response for item 6: Success
+Response for item 7: Insufficient funds
+Response for item 8: Success
+Response for item 9: Success
+Response for item 10: Success
+Response for item 11: Success
+Response for item 12: Success
+Response for item 13: Success
+Response for item 14: Success
+Response for item 15: Success
+Response for item 16: Success
+Response for item 17: Success
+Response for item 18: Success
+Response for item 19: Success
+Simulation started at: 2024-04-22 09:41:24.793532
+Bank failure for item: 1 - Retrying...
+Item 1: Success
+Bank failure for item: 2 - Retrying...
+Item 2: Success
+Item 3: Success
+Item 4: Success
+Item 5: Success
+Item 6: Success
+Item 7: Success
+Item 8: Success
+Item 9: Success
+Item 10: Success
+Item 11: Success
+Item 12: Success
+Bank failure for item: 13 - Retrying...
+Item 13: Success
+Item 14: Success
+Item 15: Success
+Item 16: Success
+Item 17: Success
+Item 18: Success
+Bank failure for item: 19 - Retrying...
+Item 19: Success
+Item 20: Success
+Item 21: Success
+Bank failure for item: 22 - Retrying...
+Item 22: Success
+Item 23: Success
+Item 24: Insufficient funds
+Item 25: Success
+Item 26: Success
+Item 27: Success
+Item 28: Success
+Bank failure for item: 29 - Retrying...
+Item 29: Success
+Item 30: Success
+Item 31: Success
+Item 32: Success
+Item 33: Success
+Item 34: Success
+Item 35: Success
+Item 36: Success
+Item 37: Success
+Item 38: Success
+Item 39: Success
+Item 40: Success
+Bank failure for item: 41 - Retrying...
+Bank failure for item: 41 - Retrying...
+Item 41: Success
+Item 42: Success
+Item 43: Success
+Item 44: Success
+Item 45: Success
+Item 46: Success
+Item 47: Success
+Item 48: Success
+Bank failure for item: 49 - Retrying...
+Item 49: Success
+Item 50: Success
+Simulation ended.
+Simulation started at: 2024-04-22 09:43:03.109729
